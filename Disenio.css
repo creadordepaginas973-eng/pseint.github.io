@@ -1,0 +1,100 @@
+.doc1{
+    background-color: aqua;
+    height:550px;
+    width: 300xp;}
+.doc2{
+    background-color:steelblue;
+    height:550px;
+    width: 300xp;
+}
+h1{
+    background-color: rgb(13, 59, 159);
+    color: rgb(16, 161, 205);}
+.seleccion{
+    background-color: dodgerblue;
+    color:(display-p3 red green blue);
+}
+button{
+    background-color: yellow;text-align: center;}
+.imagen{
+    text-align:center;
+    background-color:springgreen;
+}
+.botonesE{
+    background-color: coral;
+    color: aliceblue;}
+html{
+    background-color: navy;
+    text-align: center;
+}
+.musica{
+    text-align: center;
+}
+.pie{
+    text-align:end;
+}
+p{
+    background-color: rgb(42, 136, 190);
+}
+.variable{
+    background-color: rgb(8, 254, 25);
+    text-align: justify;
+}
+.entero{
+    background-color: rgba(203, 21, 21, 0.356);
+    text-align: justify;
+}
+.real{
+    background-color: rgba(183, 67, 218, 0.295);
+    text-align: justify;
+}
+.caracter{
+    background-color: white;
+    text-align: justify;
+}
+.cadena{
+    background-color: greenyellow;
+    text-align: justify;
+}
+.doc3{
+    background-color: goldenrod;
+}
+.si_sino{
+    background-color: rgba(24, 193, 202, 0.719);
+}
+.segun{
+    background-color: rgb(235, 147, 14);
+}
+.para{
+    background-color: tan;
+}
+.repetir{
+    background-color: springgreen;
+}
+.definir{
+    background-color: skyblue;
+}
+.ejemplo_definir{
+    background-color: silver;
+}
+.escribir{
+    background-color: wheat;
+}
+.ejemplo_escribir{
+    background-color: aqua;
+}
+.leer{
+    background-color: beige;
+}
+.ejemplo_leer{
+    background-color: rgb(83, 183, 53);
+}
+.doc4{
+    background-color: deepskyblue;
+}
+.si{
+    background-color: darkorange;
+}
+.sino{
+    background-color: rgb(25, 192, 225);
+}
